@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "676601555850",
+    "project_id": "mobile-app-for-pos",
+    "storage_bucket": "mobile-app-for-pos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676601555850:android:1b26ba3089e7a173f5b673",
+        "android_client_info": {
+          "package_name": "com.yousaf.pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676601555850-o5jv4ghukf9gfn0cdu82asba8nq0lkl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yousaf.pos",
+            "certificate_hash": "793febdfcc41376ce4f9df1a4260552fb30cb923"
+          }
+        },
+        {
+          "client_id": "676601555850-4tb3qf1qnnrd25simqbccrramnfi4v97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL88IXCC406mPQt3ls2Qa0w02LxGd9cxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676601555850-4tb3qf1qnnrd25simqbccrramnfi4v97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
