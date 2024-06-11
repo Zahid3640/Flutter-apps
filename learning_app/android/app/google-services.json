@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148142965240",
+    "project_id": "fir-login-authtication",
+    "storage_bucket": "fir-login-authtication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148142965240:android:3d939bf4bb8c7eb509160d",
+        "android_client_info": {
+          "package_name": "com.example.learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgmWDIgmrlLGyNmgqjiv6hGDYmJmXmUMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
